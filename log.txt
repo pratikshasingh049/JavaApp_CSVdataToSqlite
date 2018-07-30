@@ -1,0 +1,3 @@
+a. # of records received 6002
+b. # of records successful 5491
+c. # of records failed 511
